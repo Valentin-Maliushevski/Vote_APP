@@ -1,0 +1,16 @@
+service\GenresService$GenresServiceHolder.class
+service\GenresService.class
+servlets\TopGenresServlet.class
+servlets\AboutSortTimeServlet.class
+service\VoteService.class
+core\dto\Vote.class
+service\ArtistsService$ArtistsServiceHolder.class
+servlets\VoteServlet.class
+core\dto\ChoiceWithCounter.class
+servlets\GenresServlet.class
+servlets\ArtistsServlet.class
+service\ArtistsService.class
+service\IVoteService.class
+service\VoteService$VoteServiceHolder.class
+servlets\TopArtistsServlet.class
+core\dto\SavedVote.class
